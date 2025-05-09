@@ -45,7 +45,7 @@
     <td width="100%">
       <h3 align="center">Agent-Z | 智能体开发平台</h3>
       <p align="center">
-        <img src="https://via.placeholder.com/600x300/6DB33F/FFFFFF?text=Agent-Z+Platform" alt="Agent-Z" />
+<!--         <img src="https://via.placeholder.com/600x300/6DB33F/FFFFFF?text=Agent-Z+Platform" alt="Agent-Z" /> -->
         <br>
         <img src="https://img.shields.io/badge/NLP-4BC425?style=flat&logo=natural-language-processing&logoColor=white" alt="NLP">
         <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=rag&logoColor=white" alt="RAG">
@@ -80,8 +80,6 @@
     </td>
   </tr>
 </table>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zhangigao/zhangigao&type=Date)](https://www.star-history.com/#zhangigao/zhangigao&Date)
 
 <!-- GitHub统计 -->
 <h2 align="center">📈 GitHub Stats</h2>
