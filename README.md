@@ -14,54 +14,24 @@
   </blockquote>
 </div>
 
+---
+
 ### 🧑💻 技术之旅
+深耕Java技术栈一年，从面向对象基础到分布式系统架构的探索者。热爱通过代码解决复杂问题，享受架构设计中的权衡艺术。目前专注于：
+- **智能系统开发**：探索LLM与传统架构的融合之道
+- **性能优化**：JVM调优与高并发场景实践
+- **云原生**：基于Kubernetes的弹性伸缩架构
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zhangigao/zhangigao/main/wave.gif" width="30px">
-
-  ⎧⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎤
-  ⎪  🛠️ 技术演化路径                          ⎥
-  ⎩⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎝
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  2023 Q2 ➤ 𝗝𝗮𝘃𝗮 起航   [JVM | 并发编程 | 设计模式]
-  │          ✦          
-  ├─ 2023 Q4 ➤ 𝗦𝗽𝗿𝗶𝗻𝗴 生态圈 [Boot | Cloud | Security]
-  │          ✦          
-  └─ 2024 Q2 ➤ 𝗔𝗜 工程化   [LLM | RAG | 模型调度]
-
+---
 
 ### 🛠️ 技术图谱
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h4>🚀 核心能力</h4>
-        <img src="https://progress-bar.dev/90/?title=Spring生态" alt="Spring">
-        <img src="https://progress-bar.dev/85/?title=分布式架构" alt="分布式">
-        <img src="https://progress-bar.dev/80/?title=数据库设计" alt="数据库">
-      </td>
-      <td width="33%">
-        <h4>🔭 前沿探索</h4>
-        <img src="https://progress-bar.dev/75/?title=LLM集成" alt="LLM">
-        <img src="https://progress-bar.dev/70/?title=云原生" alt="云原生">
-        <img src="https://progress-bar.dev/65/?title=DevOps" alt="DevOps">
-      </td>
-      <td width="33%">
-        <h4>🛡️ 质量保障</h4>
-        <img src="https://progress-bar.dev/88/?title=单元测试" alt="测试">
-        <img src="https://progress-bar.dev/82/?title=性能优化" alt="性能">
-        <img src="https://progress-bar.dev/90/?title=代码规范" alt="规范">
-      </td>
-    </tr>
-  </table>
+**核心领域**  
+`Spring Boot` `微服务` `分布式系统` `MySQL` `Redis` `Kafka` `Docker`  
 
-  <details>
-  <summary>📊 技术雷达</summary>
-  
-  深度掌握 ➤ Spring Boot | MySQL | Redis | RESTful API
-  熟练使用 ➤ Kafka | Docker | JVM调优 | 设计模式
-  探索阶段 ➤ Kubernetes | Istio | LLM工程化 | RAG
+**持续探索**  
+`云原生架构` `LLM应用开发` `RAG系统优化` `DevOps自动化`
 
+---
 
 ### 🚀 代表作：Agent-Z
 **项目愿景**  
