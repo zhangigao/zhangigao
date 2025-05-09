@@ -17,6 +17,13 @@
 ---
 
 ### 🧑💻 技术之旅
+```diff
++------------------------------------------------------------------------------+
+|  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░  ░░░░ |  
+|【 核心技能 】                                                               |
+|  ▰▰▰▰▰▰▰▰ Java生态  ▰▰▰▰▰▰ Spring全家桶  ▰▰▰▰ 云原生  ▰▰▰▰▰ AI工程化|
++------------------------------------------------------------------------------+
+```
 深耕Java技术栈一年，从面向对象基础到分布式系统架构的探索者。热爱通过代码解决复杂问题，享受架构设计中的权衡艺术。目前专注于：
 - **智能系统开发**：探索LLM与传统架构的融合之道
 - **性能优化**：JVM调优与高并发场景实践
@@ -26,7 +33,23 @@
 
 ### 🛠️ 技术图谱
 **核心领域**  
-`Spring Boot` `微服务` `分布式系统` `MySQL` `Redis` `Kafka` `Docker`  
+<div align="center">
+  <!-- 后端技术 -->
+  <img src="https://img.shields.io/badge/-Spring%20Boot-38B2AC?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-JVM%20调优-FA743E?style=flat&logo=oracle&logoColor=white">
+  
+  <!-- 数据层 -->
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis%20集群-DC382D?style=flat&logo=redis&logoColor=white">
+  
+  <!-- 智能系统 -->
+  <img src="https://img.shields.io/badge/-LLM%20集成-701CCE?style=flat&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/-RAG%20优化-009688?style=flat&logo=rag&logoColor=white">
+  
+  <!-- 云原生 -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-K8s%20编排-326CE5?style=flat&logo=kubernetes&logoColor=white">
+</div>
 
 **持续探索**  
 `云原生架构` `LLM应用开发` `RAG系统优化` `DevOps自动化`
