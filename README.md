@@ -36,10 +36,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
-### 🏆 项目展廊
-<!-- 项目卡片 -->
-| [![Project1](https://github-readme-stats.vercel.app/api/pin/?zhangigao=zhangigao&repo=Agent-Z&theme=radical)](https://github.com/zhangigao/Agent-Z) | [![Project2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <!-- 项目展示 -->
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -83,6 +80,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+Star History
+
+</div> ```
 
 <!-- GitHub统计 -->
 <h2 align="center">📈 GitHub Stats</h2>
