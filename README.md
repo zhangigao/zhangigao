@@ -38,17 +38,20 @@
 致力于降低智能体开发门槛，让自然语言编程成为现实
 
 **技术突破**  
-- 首创**模型路由算法**，动态选择最优LLM（GPT-4/GLM-4/Claude-3）
+- 首创**实现多种Token策略**，根据不同策略实现对Token越限的处理
 - 实现**多格式文档解析引擎**，支持PDF/Word/Markdown混合处理
 - 设计**插件热加载机制**，系统可用性达99.95%
 
-**架构亮点**  
-```mermaid
-graph LR
-A[用户交互层] --> B(NLP核心引擎)
-B --> C{模型调度中心}
-C --> D[大模型集群]
-C --> E[知识增强模块]
-E --> F[向量数据库]
-F --> G[响应生成]
-G --> H[审计追踪]
+<!-- GitHub统计 -->
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhangigao&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangigao&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
+
+<!-- 访客统计 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhangigao&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
