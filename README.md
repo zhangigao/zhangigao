@@ -19,7 +19,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/zhangigao/zhangigao/main/wave.gif" width="30px">
 
-  ```text
   ⎧⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎤
   ⎪  🛠️ 技术演化路径                          ⎥
   ⎩⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎝
@@ -59,7 +58,6 @@
   <details>
   <summary>📊 技术雷达</summary>
   
-  ```text
   深度掌握 ➤ Spring Boot | MySQL | Redis | RESTful API
   熟练使用 ➤ Kafka | Docker | JVM调优 | 设计模式
   探索阶段 ➤ Kubernetes | Istio | LLM工程化 | RAG
