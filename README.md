@@ -36,7 +36,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
-
+### 🏆 项目展廊
+<!-- 项目卡片 -->
+| [![Project1](https://github-readme-stats.vercel.app/api/pin/?zhangigao=zhangigao&repo=Agent-Z&theme=radical)](https://github.com/zhangigao/Agent-Z) | [![Project2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 <!-- 项目展示 -->
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -76,7 +79,6 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
       </div>
     </td>
   </tr>
