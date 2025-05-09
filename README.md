@@ -102,4 +102,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 访客统计 -->
-<img src="https://komarev.com/ghpvc/?username=zhangigao&logo=github&label=PROFILE+VIEWS"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhangigao&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
