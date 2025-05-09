@@ -102,4 +102,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 访客统计 -->
-![Profile views](https://gpvc.arturio.dev/zhangigao)
+<img src="https://komarev.com/ghpvc/?username=zhangigao&logo=github&label=PROFILE+VIEWS"/>
