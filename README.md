@@ -81,10 +81,7 @@
   </tr>
 </table>
 
-<div align="center">
-[Star History
-
-</div> ```](https://www.star-history.com/#zhangigao/zhangigao&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhangigao/zhangigao&type=Date)](https://www.star-history.com/#zhangigao/zhangigao&Date)
 
 <!-- GitHub统计 -->
 <h2 align="center">📈 GitHub Stats</h2>
