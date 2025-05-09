@@ -42,37 +42,42 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">分布式任务调度平台</h3>
+    <td width="100%">
+      <h3 align="center">Agent-Z | 智能体开发平台</h3>
       <p align="center">
-        <img src="https://via.placeholder.com/350x200/6DB33F/FFFFFF?text=Task+Scheduler" alt="Project1" />
+        <img src="https://via.placeholder.com/600x300/6DB33F/FFFFFF?text=Agent-Z+Platform" alt="Agent-Z" />
+        <br>
+        <img src="https://img.shields.io/badge/NLP-4BC425?style=flat&logo=natural-language-processing&logoColor=white" alt="NLP">
+        <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=rag&logoColor=white" alt="RAG">
+        <img src="https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white" alt="GPT">
+        <img src="https://img.shields.io/badge/Claude-FF9900?style=flat&logo=anthropic&logoColor=white" alt="Claude">
       </p>
       <ul>
-        <li>基于Spring Cloud的分布式任务调度系统</li>
-        <li>支持动态扩缩容和故障转移</li>
-        <li>使用Redis实现分布式锁</li>
+        <li><b>自然语言驱动</b>: 通过自然语言指令快速构建智能体，无需复杂流程设计</li>
+        <li><b>多模型融合</b>: 支持 GPT/GLM/Claude 混合调度，智能路由最佳模型</li>
+        <li><b>知识增强</b>: 基于 RAG 的文档理解，支持 PDF/Word/Markdown 多格式解析</li>
+        <li><b>开放生态</b>: 插件市场 + 工具市场 + 知识库共享社区三位一体</li>
+        <li><b>企业级能力</b>: 多租户支持、RBAC权限控制、完整审计日志追踪</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/yourrepo/task-scheduler">
-          <img src="https://img.shields.io/badge/Code-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        <a href="https://github.com/zhangigao/Agent-Z">
+          <img src="https://img.shields.io/badge/源码-Repository-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+        <a href="https://github.com/zhangigao/Agent-Z/wiki">
+          <img src="https://img.shields.io/badge/文档-Documentation-009688?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentation"/>
+        </a>
+        <a href="https://demo.agent-z.com">
+          <img src="https://img.shields.io/badge/在线体验-Demo-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
         </a>
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">高并发电商系统</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/350x200/007ACC/FFFFFF?text=E-Commerce" alt="Project2" />
-      </p>
-      <ul>
-        <li>基于Spring Boot + Redis的秒杀系统</li>
-        <li>使用RabbitMQ实现异步处理</li>
-        <li>Sentinel实现熔断限流</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/yourrepo/ecommerce">
-          <img src="https://img.shields.io/badge/Code-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
+      <div align="center">
+        <sub>技术架构：</sub>
+        <br>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+      </div>
     </td>
   </tr>
 </table>
