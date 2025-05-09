@@ -5,19 +5,17 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4BC425&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%92%BB;Java+Backend+Engineer;Building+Intelligent+Systems;Open+Source+Enthusiast" alt="Typing SVG">
     </a>
   </h1>
-</div>
-<!-- 社交徽章 -->
+  <!-- 社交徽章 -->
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/yourprofile">
+  <a href="https://leetcode.cn/u/pedantic-hermann6si/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </p>
+</div>
+
 
 <!-- 技术信仰 -->
 <div align="center">
