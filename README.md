@@ -14,8 +14,8 @@
   </blockquote>
 </div>
 
-🧑💻 技术之旅
-MarkDown
+### 🧑💻 技术之旅
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/zhangigao/zhangigao/main/wave.gif" width="30px">
 
@@ -29,9 +29,9 @@ MarkDown
   ├─ 2023 Q4 ➤ 𝗦𝗽𝗿𝗶𝗻𝗴 生态圈 [Boot | Cloud | Security]
   │          ✦          
   └─ 2024 Q2 ➤ 𝗔𝗜 工程化   [LLM | RAG | 模型调度]
-</div> ```
-🛠️ 技术图谱
-MarkDown
+
+
+### 🛠️ 技术图谱
 <div align="center">
   <table>
     <tr>
@@ -63,7 +63,7 @@ MarkDown
   深度掌握 ➤ Spring Boot | MySQL | Redis | RESTful API
   熟练使用 ➤ Kafka | Docker | JVM调优 | 设计模式
   探索阶段 ➤ Kubernetes | Istio | LLM工程化 | RAG
-</details> </div> ```
+
 
 ### 🚀 代表作：Agent-Z
 **项目愿景**  
