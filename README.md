@@ -26,34 +26,14 @@
 
 ### 🛠️ 技术图谱
 **核心领域**  
-<div align="center">
-  <!-- 后端技术 -->
-  <img src="https://img.shields.io/badge/-Spring%20Boot-38B2AC?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-JVM%20调优-FA743E?style=flat&logo=oracle&logoColor=white">
-  
-  <!-- 数据层 -->
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redis%20集群-DC382D?style=flat&logo=redis&logoColor=white">
-  
-  <!-- 智能系统 -->
-  <img src="https://img.shields.io/badge/-LLM%20集成-701CCE?style=flat&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-RAG%20优化-009688?style=flat&logo=rag&logoColor=white">
-  
-  <!-- 云原生 -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-K8s%20编排-326CE5?style=flat&logo=kubernetes&logoColor=white">
-</div>
+`Spring Boot` `微服务` `分布式系统` `MySQL` `Redis` `RabbitMQ` `Docker` `ElasticSearch`
 
 **持续探索**  
 `云原生架构` `LLM应用开发` `RAG系统优化` `DevOps自动化`
 
 ---
 
-### 🚀 代表作：Agent-Z                <div align="center">
-  <img src="https://user-images.githubusercontent.com/26399680/163711242-2b6e9e3d-7b8a-4f6c-93a9-9e7c3c8d7b6c.gif" width="60%">
-  
-  [![Agent-Z Platform](https://img.shields.io/badge/🚀_探索项目-AGENT--Z-00C4CC?style=for-the-badge)](https://github.com/zhangigao/Agent-Z)
-</div>
+### 🚀 代表作：Agent-Z                
 
 **项目愿景**  
 致力于降低智能体开发门槛，让自然语言编程成为现实
@@ -62,6 +42,11 @@
 - 首创**实现多种Token策略**，根据不同策略实现对Token越限的处理
 - 实现**多格式文档解析引擎**，支持PDF/Word/Markdown混合处理
 - 设计**插件热加载机制**，系统可用性达99.95%
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/26399680/163711242-2b6e9e3d-7b8a-4f6c-93a9-9e7c3c8d7b6c.gif" width="60%">
+  
+  [![Agent-Z Platform](https://img.shields.io/badge/🚀_探索项目-AGENT--Z-00C4CC?style=for-the-badge)](https://github.com/zhangigao/Agent-Z)
+</div>
 
 <!-- GitHub统计 -->
 <h2 align="center">📈 GitHub Stats</h2>
