@@ -17,58 +17,19 @@
 ---
 
 ### 🧑💻 技术之旅
-<table>
-  <tr>
-    <td width="300px">
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/26399680/163703941-5a2b750b-42c7-48f5-8e9e-6b2e6c3f466f.gif" width="200px">
-      </div>
-    </td>
-    <td>
-      <div align="left">
-        <h4>🚩 成长里程碑</h4>
-        <ul>
-          <li>
-            <img src="https://api.iconify.design/logos/java.svg" width="15" alt="Java"> 
-            2023 - <b>Java筑基</b>
-            <br>
-            <sub>深入JVM机制 | 并发编程艺术 | 设计模式实践</sub>
-          </li>
-          <li>
-            <img src="https://api.iconify.design/logos/spring.svg" width="15" alt="Spring"> 
-            2024 - <b>Spring生态</b>
-            <br>
-            <sub>微服务架构 | 云原生实践 | 分布式系统设计</sub>
-          </li>
-          <li>
-            <img src="https://api.iconify.design/logos/kubernetes.svg" width="15" alt="K8s"> 
-            2024 - <b>智能演进</b>
-            <br>
-            <sub>LLM系统集成 | RAG优化 | 多模型调度</sub>
-          </li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+深耕Java技术栈一年，从面向对象基础到分布式系统架构的探索者。热爱通过代码解决复杂问题，享受架构设计中的权衡艺术。目前专注于：
+- **智能系统开发**：探索LLM与传统架构的融合之道
+- **性能优化**：JVM调优与高并发场景实践
+- **云原生**：基于Kubernetes的弹性伸缩架构
 
 ---
 
 ### 🛠️ 技术图谱
-```diff
- 分布式架构      云原生        智能系统
-+---------------+-------------+-----------------+
-|  Spring Cloud |  Kubernetes |  LangChain     |
-|  Redis Cluster |  Helm       |  RAG          |
-|  Kafka        |  Prometheus | 󰗀 Model Routing|
-|  Zookeeper    |  Istio      |  Vector DB     |
-+---------------+-------------+-----------------+
+**核心领域**  
+`Spring Boot` `微服务` `分布式系统` `MySQL` `Redis` `Kafka` `Docker`  
 
- 核心技能矩阵                掌握程度
-██████████░░ 90%   Spring Boot
-█████████░░░ 85%   JVM Optimization 
-███████░░░░░ 70%   LLM Integration
-███████████░ 95%   API Design
+**持续探索**  
+`云原生架构` `LLM应用开发` `RAG系统优化` `DevOps自动化`
 
 ---
 
