@@ -57,6 +57,11 @@
   
   [![Agent-Z Platform](https://img.shields.io/badge/🚀_探索项目-AGENT--Z-00C4CC?style=for-the-badge)](https://github.com/zhangigao/Agent-Z)
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/26399680/163711242-2b6e9e3d-7b8a-4f6c-93a9-9e7c3c8d7b6c.gif" width="60%">
+  
+  [![Agent-Z Platform](https://img.shields.io/badge/🚀_探索项目-Dev-Deck-00C4CC?style=for-the-badge)](https://github.com/zhangigao/Dev-Deck)
+</div>
 
 <!-- GitHub统计 -->
 <h2 align="center">📈 GitHub Stats</h2>
