@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=你好！我是+%5B/zhangigao%5D+%F0%9F%91%8B;Java开发者+%7C+问题解决者;构建开发者工具;开源倡导者" alt="动态输入 SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%5Bzhangigao%5D+%F0%9F%91%8B;Java+Developer+%7C+Problem+Solver;Building+Tools+for+Developers;Open+Source+Advocate" alt="Typing SVG">
   <p>
     热衷于 Java 后端开发，致力于打造智能系统和以开发者为中心的解决方案。
   </p>
